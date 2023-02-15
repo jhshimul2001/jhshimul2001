@@ -1,6 +1,5 @@
 ### Asslamulaikum ❤ , my name is Shimul
 #### App devloper
-![App devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a flutter developer 
 

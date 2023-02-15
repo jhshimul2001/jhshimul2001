@@ -1,4 +1,4 @@
-### Asslamulaikum, my name is Shimul
+### Asslamulaikum ❤ , my name is Shimul
 #### App devloper
 ![App devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -20,14 +20,9 @@ Skills:  HTML / CSS / Flutter / Dart / Firebase / c / Java / Git / Github
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhshimul2001&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhshimul2001)  
-
-![GitHub metrics](https://metrics.lecoq.io/jhshimul2001)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jhshimul2001)  
 
 ![Profile views](https://gpvc.arturio.dev/jhshimul2001)  
-
 
 
 

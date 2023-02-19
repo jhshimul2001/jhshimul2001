@@ -1,6 +1,6 @@
 ### Asslamulaikum ❤ , my name is Shimul
 
-###A self-educated programmer who always try to learn new something
+### A self-educated programmer who always try to learn new something
 
 #### App devloper
 

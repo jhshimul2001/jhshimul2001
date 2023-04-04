@@ -6,8 +6,6 @@
 
 I am a flutter developer 
 
-https://scontent.fdac72-1.fna.fbcdn.net/v/t39.30808-6/339421022_937566924036106_5796025496214543324_n.png?stp=dst-png_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=-s2-OlplaI0AX-EneuS&_nc_ht=scontent.fdac72-1.fna&oh=00_AfCpL7EqHuV-3uo2luuDTPYPD5deM8v0cW1A8b0HObPU5g&oe=643192D1
-
 Skills:  HTML / CSS / Flutter / Dart / Firebase / c / Java / Git / Github
 
 - 🔭 I’m currently working on Youtube 

@@ -1,10 +1,10 @@
-### Asslamulaikum ❤ , my name is Shimul
+### Asslamulaikum ❤ this is shimul
 
 ### A self-educated programmer who always try to learn new something
 
-#### App devloper
+#### mern stack developer
 
-I am a flutter developer 
+I am a mern stack developer
 
 Skills:  HTML / CSS / javascript / Git / Github
 

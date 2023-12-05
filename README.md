@@ -6,12 +6,12 @@
 
 I am a flutter developer 
 
-Skills:  HTML / CSS / Flutter / Dart / Firebase / c / Java / Git / Github
+Skills:  HTML / CSS / javascript / Git / Github
 
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning mern stack developement
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Flutter and dart 
+- 💬 Ask me about web design and developement
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jhshimul2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juvaid-hasan-shimul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jubayedhasan.shimul)  

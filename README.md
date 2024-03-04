@@ -2,16 +2,15 @@
 
 ### A self-educated programmer who always try to learn new something
 
-#### mern stack developer
+#### web designer
 
-I am a mern stack developer
-
-Skills:  HTML / CSS / javascript / Git / Github
+I am a web designer
+Skills:  HTML / CSS / javascript / bootstrap / jquery / wordpress / Git / Github
 
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning mern stack developement
+- 🌱 I’m currently learning front end 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web design and developement
+- 💬 Ask me about web design and wordpress
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jhshimul2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juvaid-hasan-shimul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jubayedhasan.shimul)  

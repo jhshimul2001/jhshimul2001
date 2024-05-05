@@ -1,16 +1,16 @@
-### Asslamulaikum ❤ this is shimul
+### Asslamulaikum ❤ this is me shimul
 
 ### A self-educated programmer who always try to learn new something
 
 #### web designer
 
-I am a web designer
-Skills:  HTML / CSS / javascript / bootstrap / jquery / wordpress / Git / Github
+I am a Ethical hacker
+Skills:  
 
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning front end 
+- 🌱 I’m currently learning Ethical hacking
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web design and wordpress
+- 💬 Ask me about Ethical hacking 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jhshimul2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juvaid-hasan-shimul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jubayedhasan.shimul)  
